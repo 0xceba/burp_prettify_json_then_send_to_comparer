@@ -13,3 +13,4 @@ Sending pretty print formatted JSON data to Comparer makes the data significantl
 2. Open the message's context menu by right-clicking the message or by clicking the "Message actions" hamburger button in the top right of the message editor.
 3. Execute the extension by hovering over the "Extensions" menu item -> select "Pretty print then send to Comparer", as seen below:
    ![Burp Burp Pretty Print JSON Then Send to Comparer usage image 1](pretty_print_json_then_send_to_comparer_usage1.png)
+4. View the formatted JSON data in the Comparer tool.
